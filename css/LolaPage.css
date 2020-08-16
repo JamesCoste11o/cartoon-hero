@@ -44,7 +44,6 @@ button {
 /* main styles */
 
 main{
-
 	max-width: 1600px;
 	margin: 0 auto;
 	padding: 20px;
@@ -52,7 +51,6 @@ main{
 }
 
 main img{
-	
 	border-radius: 37.5px;
 	width: 300px;
 	border: 10px solid #14213d;
@@ -78,9 +76,6 @@ footer{
 	padding-top: 30px;
 }
 
-footer a{
-
-}
 footer p{
 	margin: 0;
 	background-color: #e5e5e5;
